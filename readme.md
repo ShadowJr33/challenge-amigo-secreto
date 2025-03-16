@@ -28,6 +28,17 @@ El proyecto está compuesto por los siguientes archivos y directorios:
 4. Una vez que hayas añadido al menos dos amigos, haz clic en el botón "Sortear amigo" para realizar el sorteo.
 5. El resultado del sorteo se mostrará en la pantalla.
 
+### Ejemplo de uso
+
+#### Lista de amigos
+
+![Lista de amigos](screenshots/ListaAmigos.jpg)
+
+#### Sorteo del amigo secreto
+
+![Sorteo del amigo secreto](screenshots/SorteoAmigo.jpg)
+
+
 ## Tecnologías Utilizadas
 
 - HTML
