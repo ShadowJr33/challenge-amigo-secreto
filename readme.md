@@ -32,11 +32,11 @@ El proyecto está compuesto por los siguientes archivos y directorios:
 
 #### Lista de amigos
 
-![Lista de amigos](screenshots/ListaAmigos.jpg)
+![Lista de amigos](screenshots/ListaAmigos.png)
 
 #### Sorteo del amigo secreto
 
-![Sorteo del amigo secreto](screenshots/SorteoAmigo.jpg)
+![Sorteo del amigo secreto](screenshots/SorteoAmigo.png)
 
 
 ## Tecnologías Utilizadas
